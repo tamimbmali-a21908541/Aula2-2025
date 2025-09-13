@@ -9,5 +9,6 @@ add_executable(Aula2_2025v1
 #        exec2/exec2.c
 #        fork/fork.c
 #        threads/threads.c
-        wait/wait.c
+#        wait/wait.c
+         basicExample/main.c
 )
