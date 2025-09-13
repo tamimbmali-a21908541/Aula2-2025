@@ -7,8 +7,8 @@ set(CMAKE_C_STANDARD 11)
 add_executable(Aula2_2025v1
 #        exec/exec.c
 #        exec2/exec2.c
+         basicExample/main.c
 #        fork/fork.c
 #        threads/threads.c
 #        wait/wait.c
-         basicExample/main.c
-)
+         )
