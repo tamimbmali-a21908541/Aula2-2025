@@ -14,6 +14,7 @@ Cada pasta mostra código que ilustra conceitos fundamentais como `fork`, `exec`
 | `fork`  | Demonstra a criação de processos-filho com `fork()`. Mostra a distinção entre pai e filho e a execução concorrente. |
 | `threads` | Exemplo de utilização de *POSIX threads*: criação, execução em paralelo e sincronização com `pthread_join`. |
 | `wait`  | Demonstra como o processo pai pode esperar pelos filhos (`wait()`, `waitpid()`) e recolher o código de saída. |
+| `basicExample`  | Exemplo simples, um contador temporal até dar time out. |
 
 ---
 
