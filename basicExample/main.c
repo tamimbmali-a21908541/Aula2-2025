@@ -8,7 +8,7 @@ int main(void) {
     while ( i != 0)
     {
         printf("Faltam %i minutos para terminar teste\n", i);
-        sleep(60);
+        sleep(1);
         i--;
     }
     return 0;
